@@ -1,1 +1,2 @@
-# W25_w3_css_intro
+# Intro to CSS Activity
+Week 2 or 3 in-class exercises for intro to CSS
